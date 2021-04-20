@@ -23,6 +23,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /.idea/
+*/target/
 /target/checkout/
 /pet-clinic-web/target/classes/application.properties
 /pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
